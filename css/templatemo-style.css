@@ -1,11 +1,3 @@
-/* 
-
-Sentra Template
-
-https://templatemo.com/tm-518-sentra
-
-*/
-
 body {
   font-family: 'Open Sans', sans-serif;
 }
@@ -414,14 +406,17 @@ header {
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/back\ sild\ -1.jpg);
+  background-image: url(../img/product/BloodTypeCompatibility.PNG);
 }
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/back\ sild\ -2.jpg)
+  background-image: url(../img/product/BloodPressureChecker.PNG)
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/back\ sild\ -3.jpg);
+  background-image: url(../img/product/BloodSugarMonitor.PNG);
+}
+.Modern-Slider .item-4 .image {
+  background-image: url(../img/product/VitaminHealthHelper.PNG);
 }
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}
