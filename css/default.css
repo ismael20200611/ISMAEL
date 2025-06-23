@@ -222,8 +222,7 @@ li{
 	height:700px;
 	overflow:hidden;
 	position:relative;
-	background:url(../pics/splash-bg.jpg) bottom left repeat-x;
-	
+	background: #00498D;	
 	-webkit-transition:height 1s;
 	-moz-transition:height 1s;
 	-ms-transition:height 1s;
