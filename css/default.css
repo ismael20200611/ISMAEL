@@ -13,6 +13,9 @@
 body, ul, table, form{
 	margin:0;
 	padding:0;
+	background: linear-gradient(rgba(4, 0, 250, 0.623), rgba(4, 0, 250, 0.699)), url(../img/pngwing.com.png);	
+	background-size: cover;
+
 }
 
 /*  #Tablet (Portrait)
@@ -222,7 +225,8 @@ li{
 	height:700px;
 	overflow:hidden;
 	position:relative;
-	background: #00498D;	
+	background: linear-gradient(rgba(4, 0, 250, 0.623), rgba(4, 0, 250, 0.699)), url(../img/pngwing.com.png);
+	background-size: cover;
 	-webkit-transition:height 1s;
 	-moz-transition:height 1s;
 	-ms-transition:height 1s;
